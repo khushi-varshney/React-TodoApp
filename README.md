@@ -1,0 +1,4 @@
+<h1>Todo Apllication</h1>
+<p >This is a Todo Application built using React + Vite + Tailwind CSS. This app helps you in keeping the track of the task you need to do and the task you have already completed.</p>
+<p >This is not only a very useful app in day-to-day life but also helps the individual in keeping the days productive. Apart From that, Having a Responsive Design is what benefiting the people in accessing this app from their mobile phones as well.</h3>
+<p >This app allows the user to delete the task they have already completed and edit thier tasks as well. More Interesting part is that, Even on Refereshing, this TodoApp does not lose your data.</p>
